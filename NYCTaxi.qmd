@@ -124,6 +124,7 @@ fig3.show(config={'scrollZoom': False})
 
 
 ```
+
 # 기말고사1-(1),(2)
 
 ```{python}
