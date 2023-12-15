@@ -94,6 +94,7 @@ fig2.show()
 
 # 기말고사1-(3)
 ```{python}
-#| title: 속력별 경로 시각화   
+#| title: 속력별 경로 시각화  
+fig2.show()
 #fig3.show()
 ```
